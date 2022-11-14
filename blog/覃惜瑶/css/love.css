@@ -172,6 +172,9 @@ body {
     text-align: center;
     color: #FF0000;
     font-weight: bolder;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 300px;
 }
 
 .copyright div {
